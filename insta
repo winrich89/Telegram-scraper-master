@@ -1,0 +1,16 @@
+login : “username-instagram-anda”
+password : “password-instagram-anda”
+debug: 1
+like_per_day: 368
+tag_list: [‘selfie’, ‘love’, ‘instagood’, ‘photooftheday’, ‘fashion’, ‘beautiful’, ‘happy’, ‘cute’, ‘art’, ‘picoftheday’, ‘like4like’, ‘tbt’, ‘follow’, ‘nature’, ‘travel’, ‘style’, ‘selfie’, ‘instadaily’, ‘instagram’, ‘fitness’, ‘friends’, ‘girl’, ‘smile’, ‘food’]
+unwanted_username_list: [‘second’, ‘stuff’, ‘keren’, ‘indo’, ‘travel’, ‘art’, ‘shop’, ‘store’, ‘toko’, ‘jual’, ‘online’, ‘murah’, ‘jam’, ‘kaos’, ‘case’, ‘baju’, ‘fashion’, ‘corp’, ‘tas’, ‘butik’, ‘grosir’, ‘karpet’, ‘skin’, ‘care’, ‘cloth’, ‘tech’, ‘rental’, ‘kamera’, ‘beauty’, ‘express’, ‘kredit’, ‘collection’, ‘impor’, ‘follow’, ‘follower’, ‘gain’, ‘bags’, ‘tech’, ‘official’]
+max_like_for_one_tag: 5
+follow_per_run : 64
+follow_time: 38000
+unfollow_per_day: 0
+unfollow_break_min: 6
+unfollow_break_max: 26
+unfollow_selebgram: false
+unfollow_probably_fake: true
+unfollow_inactive: true
+unfollow_recent_feed: false
